@@ -38,6 +38,81 @@
 
 ---
 
+### 🛠 &nbsp;Tech Stack
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)&nbsp;
+![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain)&nbsp;
+![Ollama](https://img.shields.io/badge/-Ollama-05122A?style=flat&logo=ollama)&nbsp;
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Sanity](https://img.shields.io/badge/-Sanity-05122A?style=flat&logo=sanity)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)&nbsp;
+![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=flat&logo=web3.js)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe)&nbsp;
+![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![Mocha](https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=mocha)&nbsp;
+![GraphQL Code Generator](https://img.shields.io/badge/-GraphQL%20Code%20Generator-05122A?style=flat&logo=graphql)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
+![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface)&nbsp;
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat)&nbsp;
+![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=mlflow)&nbsp;
+![DAGsHub](https://img.shields.io/badge/-DAGsHub-05122A?style=flat&logo=dagshub)&nbsp;
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-05122A?style=flat&logo=stabilityai)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![Chainlink](https://img.shields.io/badge/-Chainlink-05122A?style=flat&logo=chainlink)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
+![Metamask](https://img.shields.io/badge/-Metamask-05122A?style=flat&logo=metamask)&nbsp;
+![Solana](https://img.shields.io/badge/-Solana-05122A?style=flat&logo=solana)&nbsp;
+![IPFS](https://img.shields.io/badge/-IPFS-05122A?style=flat&logo=ipfs)&nbsp;
+![The Graph](https://img.shields.io/badge/-The%20Graph-05122A?style=flat&logo=the-graph)&nbsp;
+![NFTs](https://img.shields.io/badge/-NFTs-05122A?style=flat)&nbsp;
+![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat)&nbsp;
+![Truffle](https://img.shields.io/badge/-Truffle-05122A?style=flat&logo=truffle)&nbsp;
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-05122A?style=flat&logo=ethers.js)&nbsp;
+![WebAssembly (Wasm)](https://img.shields.io/badge/-WebAssembly%20(Wasm)-05122A?style=flat&logo=webassembly)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![NativeWind](https://img.shields.io/badge/-NativeWind-05122A?style=flat&logo=nativewind)&nbsp;
+
+---
+
 ## 📈 How I Work
 
 - **Audit:** 🔍 First thing, I will identify room for improvements in your tech stack and team. Also will provide complete audit report with improved microservice architecture.
