@@ -18,6 +18,8 @@
 
 ## 🚀 Professional Background
 
+- **Founder at oo7ai.com :** 🌐 Redeisgned how AI calling works and created smartest AI Call Center platform - oo7AI.
+- **Backend Lead at Etera:** 🌐 World Smartest AI Travel Platform with AI calling and developed the fastest Recommendation Engine.
 - **CTO at Hoppers Network:** 🌐 A decentralized trading exchange & payment solution with DApps development service.
 - **IT Director at Dubai Marketing Agency (DMA)/:** 🚀 Leading the technological vision and strategy to deliver cutting-edge solutions to develop a Gig Marketplace with AI.
 - **Head of IT at AllStars Digital Exchange:** 🌍 Lead a team of 32+ across Europe & MENA to develop the first-of-its-kind human performance index-based crypto exchange.
