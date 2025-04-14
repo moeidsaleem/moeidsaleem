@@ -15,6 +15,13 @@
 👋 Hello! I'm **Moeid Saleem Khan**, an Enterprise Software Consultant with over a decade of experience in building robust software solutions. My expertise spans full-stack development, cloud architecture, and IT infrastructure management. I am passionate about leveraging technology to drive innovation and deliver exceptional value to businesses.
 
 ---
+#### 🚀 Medium.com – Exploring the Future of Tech, Crypto, and AI
+I regularly write about the cutting edge of technology, cryptocurrency, and artificial intelligence, sharing insights, frameworks, and real-world applications that help businesses stay ahead of the curve.
+
+📚 Dive into my latest articles and explore the ideas shaping tomorrow:
+👉 Read on [Medium](https://medium.com/@moeidsaleem)
+
+---
 
 ## 🚀 Professional Background
 
