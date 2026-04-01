@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Moeid Saleem Khan - AI CTO / AI Full Stack Engineer</h1>
+<h1 align="center">👨‍💻 Moeid Saleem Khan - AI CTO / Engineer </h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/12978602?v=4" alt="Moeid Saleem Khan" width="150" style="border-radius:50%;background-color:red;" />
